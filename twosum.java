@@ -9,6 +9,7 @@ class TwoSum {
         }
         return new int[]{};
     }
+    //here syarts the main function
 
     public static void main(String[] args) {
         int[] result = twoSum(new int[]{2,7,11,15}, 9);
